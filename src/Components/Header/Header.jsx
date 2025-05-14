@@ -2,7 +2,7 @@ import React from "react";
 import NetflixLogo from "../../assets/images/netflix.png"
 import "./Header.css";
 import { IoSearchOutline } from "react-icons/io5";
-import { IoMdNotificationsOutline, IpMdNotificationiconsOutline } from "react-icons/io";
+import {IoMdNotificationsOutline } from "react-icons/io";
 import { MdOutlineAccountBox } from "react-icons/md";
 import { IoMdArrowDropdown } from "react-icons/io";
 
@@ -19,7 +19,7 @@ function Header() {
               </li>
               <li>Netflix</li>
               <li>Home</li>
-              <li>TVShows</li>
+              <li>TV Shows</li>
               <li>Movies</li>
               <li>Latest</li>
               <li>My List</li>
