@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from '../../components/MyHeader/Header'
+import Header from '../../components/MyHeader/MyHeader'
 import Footer from '../../components/Footer/Footer'
 import Banner from '../../components/Banner/banner'
 import RowList from '../../components/Rows/RowList/RowList';
